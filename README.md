@@ -66,9 +66,8 @@ Here's what to do after completing a fresh install of OS X.
   - Download this project - [Download](https://github.com/ktabori/development-osx/archive/master.zip)
   - `cd` into the project directory
   - __Run `./setup.sh`__
-
-- __[Or do step 2 manually](/MANUAL_SETUP.md)__
-
+  - __[Or do step 2 manually](/MANUAL_SETUP.md)__
+  
 1. __More Configuration__
   - Terminal -> Preferencies -> Profiles -> Settings dropdown -> Import
     - `/Assets/Bash/base16-flat-krta.terminal`
