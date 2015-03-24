@@ -1,0 +1,40 @@
+separator
+
+ai google-chrome true
+ai firefox
+ai atom
+ai sublime-text
+ai webstorm
+ai cactus
+ai anvil
+ai flux
+ai dropbox
+ai shuttle
+ai cinch
+ai 1password
+ai shimo
+ai alfred
+ai sequel-pro
+ai postico
+ai robomongo
+ai adobe-creative-cloud
+ai sketch
+ai sketch-toolbox
+ai colorpicker-skalacolor
+ai cyberduck
+ai transmit
+ai virtualbox
+ai parallels-desktop
+ai vmware-fusion
+ai slack
+ai kaleidoscope
+ai macdown
+ai mou
+ai charles
+ai cord
+ai recordit
+ai the-unarchiver
+ai dash
+ai sourcetree
+ai xquartz
+ai wireshark
