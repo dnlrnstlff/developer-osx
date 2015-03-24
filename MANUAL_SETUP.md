@@ -1,0 +1,24 @@
+##### Manual Install
+
+  - Install Xcode Command Line Tools - `xcode-select --install`
+  - Install [Homebrew](http://brew.sh/)
+    - `ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
+    - Update brew: `brew update`
+    - Upgrade installed brews: `brew upgrade`
+    - Install common brews: `brew install caskroom/cask/brew-cask node bash-completion git mongodb redis mysql postgresql sbt the_silver_searcher rbenv ruby-build`
+    - Remove outdated brews: `brew cleanup`
+  - Install global Node.js modules
+    - `npm install -g vtop is-up dnc grunt-cli grunt-init express express-generator forever nodemon yo`
+  - Install [a Ruby version](https://github.com/sstephenson/rbenv#installing-ruby-versions) (last one I used was 1.9.3-p551)
+    - Set a [global Ruby version](global Ruby version)
+    - Install common gems: `gem install git-up bundler sass jekyll rouge`
+  - Install [Heroku Toolbelt](https://toolbelt.heroku.com/)
+  - Download this project - [Download](https://github.com/ktabori/development-osx/archive/master.zip)
+  - Install fonts from `/Assets/Fonts` directory
+  - Edit `sudo nano ~/.bashrc`
+    - Copy and paste content from `/Assets/Bash/.bashrc`
+  - Edit `sudo nano ~/.profile`
+    - Copy and paste content from `/Assets/Bash/.profile`
+  - Edit `sudo nano ~/.gitconfig`
+    - Copy, paste and edit content from `/Assets/Bash/.gitconfig`
+  - Add `/Assets/Bash/.jump` in `~/`

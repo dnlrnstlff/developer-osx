@@ -1,4 +1,6 @@
-# Cheat Sheet
+A small collection of *my* best practices in *my* workflow:
+
+### Cheat Sheet
 
 | Command       | Description   |
 | ------------- |:-------------:|
@@ -14,6 +16,7 @@
 | reload        | Reload .bashrd |
 | editgit       | Edit .gitconfig |
 | editbash      | Edit .bashrc |
+| editprofile   | Edit .profile |
 | h             | Go tom ~/ 'home directory' |
 | s[.]          | Open in Sublime Text |
 | a[.]          | Open in Atom.io |
@@ -37,7 +40,24 @@
 | grh           | git reset HEAD |
 | undo          | git reset --soft HEAD^ |
 | gup           | git up //Fetches all branches |
-| gcommit       | Commit and push to git |
-| gpull         | Pull all branches and update submodules |
-| gmerge        | Merge a to b and push |
-| chrome        | Open in url in Chrome |
+
+### Finder Sidebar
+- [ ] All My Files
+- [ ] iCloud Drive
+- [X] AirDrop
+- [x] Applications
+- [x] Desktop
+- [x] Documents
+- [x] Downloads
+- [ ] Movies
+- [x] Music
+- [x] Pictures
+- [x] Home directory
+- [ ] Back to My Mac
+- [x] Connected servers
+- [x] Bonjour computers
+- [x] This Computer
+- [x] Hard disks
+- [x] Extrenal disks
+- [ ] CDs, DVDs, and iPods
+- [ ] Recent Tags
