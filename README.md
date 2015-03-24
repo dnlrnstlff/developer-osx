@@ -27,8 +27,8 @@ Here's what to do after completing a fresh install of OS X.
   - Clean up
   - Auto hide or position left/right (?)
   - Add white spaces
-    - ```sh defaults write com.apple.dock persistent-apps -array-add '{"tile-type"="spacer-tile";}' ```
-    - ```sh killall Dock ```
+    - `defaults write com.apple.dock persistent-apps -array-add '{"tile-type"="spacer-tile";}'`
+    - `killall Dock`
 
 1. __Finder__
   - Finder -> Preferences
