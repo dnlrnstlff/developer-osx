@@ -6,9 +6,6 @@ PATH="/usr/local/bin:$PATH"
 test -d "$HOME/bin" &&
 PATH="$HOME/bin:$PATH"
 
-# tools
-alias subl='/Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl'
-
 # databases
 alias psql_start="postgres -D /usr/local/var/postgres"
 alias mongo_start="mongod --config /usr/local/etc/mongod.conf"
@@ -31,13 +28,10 @@ alias editgit='atom ~/.gitconfig'
 alias editbash='atom ~/.bashrc'
 
 ## Switch repos
-DIR=~/Documents/projects
 alias h='cd ~/'
 alias w='cd ${DIR}'
 
 # applications
-alias s.="subl ."
-alias s="subl"
 alias a.="atom ."
 alias a="atom"
 
