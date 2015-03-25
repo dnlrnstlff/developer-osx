@@ -1,7 +1,7 @@
 #! /bin/bash
 
 pushd `dirname $0` > /dev/null
-THISVER='ver1.0'
+THISVER='ver1.1'
 THISPATH=`pwd -P`
 popd > /dev/null
 
