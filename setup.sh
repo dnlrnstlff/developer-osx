@@ -14,4 +14,5 @@ source $THISPATH/Setup/Run/npm.sh
 source $THISPATH/Setup/Run/ruby.sh
 source $THISPATH/Setup/Run/heroku.sh
 source $THISPATH/Setup/Run/apps.sh
+source $THISPATH/Setup/Run/fonts.sh
 source $THISPATH/Setup/Run/terminal.sh

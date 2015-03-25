@@ -38,3 +38,4 @@ ai dash
 ai sourcetree
 ai xquartz
 ai wireshark
+ai spotify
