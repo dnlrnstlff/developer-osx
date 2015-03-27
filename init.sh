@@ -8,5 +8,5 @@ echo "Extracting the project..."
 mkdir -p goog-fonts/fonts
 tar -zxf master.tar.gz -C goog-fonts/fonts
 cd developer-osx-master
-./setup.sh
+sh ./setup.sh
 echo "All done!"
