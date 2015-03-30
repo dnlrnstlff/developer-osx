@@ -24,6 +24,7 @@ Here's what to do after completing a fresh install of OS X.
   - [Generate new SSH key](https://help.github.com/articles/generating-ssh-keys/)
   - [Generate an access token](https://help.github.com/articles/creating-an-access-token-for-command-line-use/) for Terminal to auth your GitHub account when 2FA is enabled
 
+
 ### General Settings
 
   1. __Trackpad__
