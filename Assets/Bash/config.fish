@@ -3,6 +3,10 @@ set fish_greeting ''
 set -x PATH $PATH $HOME/npm/bin
 set -x PATH $PATH $HOME/bin
 set -x PATH $PATH /usr/local/bin
+set -x S3AccessKeyId 'AKIAJ6QF4IQAMDABB24Q'
+set -x S3SecretKeyId '51VbC/wTtuylzVZwgSQMDQckhYRxsBQcgnxA/Lze'
+set -x DIGITAL_OCEAN_CLIENT_ID '1754da420de39c0cb5a6d59a4b52299c'
+set -x DIGITAL_OCEAN_API_KEY '7b8912c47fd1df4e720aeee67e7e86f1'
 
 alias NAME DEFINITION
 
@@ -18,6 +22,10 @@ alias l 'ls'
 alias ll 'ls -Alh'
 alias fn 'find . -name'
 alias hi 'history | tail -20'
+alias repos 'cd ~/Desktop/Repos/'
+alias desktop '~/Desktop/'
+alias dropbox '~/Dropbox/'
+alias ni 'npm install'
 
 # shortcuts
 alias d 'cd ~/Dropbox'
@@ -28,8 +36,9 @@ alias editgit 'atom ~/.gitconfig'
 alias h 'cd ~/'
 
 # applications
-alias a. 'atom .'
 alias a 'atom'
+alias atom. 'atom .'
+alias a. 'atom .'
 
 # git
 alias g 'git'
